@@ -16,7 +16,9 @@ C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Proje
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\Antlr3.Runtime.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\EntityFramework.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\EntityFramework.SqlServer.dll
+C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\GeocodeSharp.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\Microsoft.Web.Helpers.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\Newtonsoft.Json.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\System.Net.Http.Formatting.dll
@@ -30,8 +32,11 @@ C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Proje
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\System.Web.WebPages.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\System.Web.WebPages.Razor.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\WebGrease.dll
+C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\WebMatrix.Data.dll
+C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\WebMatrix.WebData.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\EntityFramework.xml
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\EntityFramework.SqlServer.xml
+C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\GeocodeSharp.xml
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\Newtonsoft.Json.xml
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\System.Net.Http.Formatting.xml
@@ -45,6 +50,8 @@ C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Proje
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\System.Web.WebPages.Razor.xml
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\Antlr3.Runtime.pdb
+C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\WebMatrix.Data.xml
+C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\bin\WebMatrix.WebData.xml
+C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\obj\Debug\project.dll
 C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\obj\Debug\project.pdb
-C:\Users\Alan\Documents\College Stuff\Rich Application Development\Project\Project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache

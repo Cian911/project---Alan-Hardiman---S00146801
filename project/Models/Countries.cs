@@ -16,7 +16,7 @@ namespace project.Models
             public string CapitalCity { get; set; }
             [Display(Name = "Currency")]
             public string Currency { get; set; }
-           
+            [Display(Name = "Language")]
             public string Language { get; set; }
        }
 
